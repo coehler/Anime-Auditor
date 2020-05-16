@@ -33,7 +33,7 @@ Lastly you need to make an empty directory called `servers` in the same director
 You're all set now. Launch Anime Auditor using the following terminal command:
 
 ```
-Python3.7 animeauditor.py
+Python3.6 animeauditor.py
 ```
 
 ## Usage
